@@ -7,7 +7,7 @@
 如果您有任何建议或者需求，请联系站长，更多的功能正在开发中，敬请期待！
 
 
-文档地址：[https://ziopqu50k5.apifox.cn/](https://ziopqu50k5.apifox.cn/)
+文档地址：[https://docs.moreapi.cn/](https://docs.moreapi.cn/)
 
 ## Authorization/鉴权
 
