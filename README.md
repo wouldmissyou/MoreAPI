@@ -1,3 +1,7 @@
+## 🚀 🚀🚀🚀🚀🚀🚀此项目将不再维护，敬请谅解🚀🚀🚀🚀🚀🚀🚀🚀
+
+
+
 ## Description/简介
 
 `MoreAPI`是抖音/快手/小红书/哔哩哔哩/YouTube/微博weibo/tiktok/Lemon8(海外版小红书)/西瓜/头条等各视频平台非官方的RESTful API平台。
