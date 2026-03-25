@@ -91,9 +91,6 @@
 
 ## Sites/站点
 
-博客：[https://www.wouldmissyou.com](https://www.wouldmissyou.com)
-
-源码购买地址：[https://www.wouldmissyou.com/2023/12/01/243/](https://www.wouldmissyou.com/2023/12/01/243/)
 
 
 EMAIL: wouldmissyou@163.com
@@ -112,7 +109,6 @@ MoreAPI接口文档： [https://ziopqu50k5.apifox.cn/](https://ziopqu50k5.apifox
 
 #### 注册账号
 
-注册地址  [http://api.moreapi.cn/api/auth/register/](http://api.moreapi.cn/api/auth/register/)
 
 #### 调用示例
 
@@ -151,7 +147,6 @@ print(response.text)
 
 ```
 
-文档地址：[http://apifox.com/apidoc/shared-0b55c993-4634-4f70-b6fc-3edf1c27344d](https://apifox.com/apidoc/shared-0b55c993-4634-4f70-b6fc-3edf1c27344d)
 
 # MoreAPI SDK
 
